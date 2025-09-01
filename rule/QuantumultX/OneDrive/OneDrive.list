@@ -13,7 +13,8 @@ HOST-SUFFIX,livefilestore.com,OneDrive
 HOST-SUFFIX,oneclient.sfx.ms,OneDrive
 HOST-SUFFIX,onedrive.com,OneDrive
 HOST-SUFFIX,onedrive.live.com,OneDrive
-HOST-SUFFIX,photos.live.com,OneDrive
+HOST-SUFFIX,live.com,OneDrive
+HOST-SUFFIX,live.net,OneDrive
 HOST-SUFFIX,sharepoint.com,OneDrive
 HOST-SUFFIX,sharepointonline.com,OneDrive
 HOST-SUFFIX,skydrive.wns.windows.com,OneDrive
