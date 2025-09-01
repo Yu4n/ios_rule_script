@@ -9,6 +9,9 @@
 # TOTAL: 18
 HOST,oneclient.sfx.ms,OneDrive
 HOST-SUFFIX,1drv.com,OneDrive
+HOST-SUFFIX,office.com,OneDrive
+HOST-SUFFIX,microsoft.com,OneDrive
+
 HOST-SUFFIX,livefilestore.com,OneDrive
 HOST-SUFFIX,oneclient.sfx.ms,OneDrive
 HOST-SUFFIX,onedrive.com,OneDrive
