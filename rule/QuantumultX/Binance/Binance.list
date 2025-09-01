@@ -5,15 +5,12 @@
 # HOST-SUFFIX: 12
 # TOTAL: 12
 HOST-SUFFIX,appsflayer.com,Binance
-HOST-SUFFIX,binance.cloud,Binance
 HOST-KEYWORD,binance,Binance
-HOST-SUFFIX,binance.me,Binance
-HOST-SUFFIX,binance.info,Binance
-HOST-SUFFIX,binancecnt.com,Binance
-HOST-SUFFIX,binancefuture.com,Binance
 HOST-SUFFIX,bnappzh.co,Binance
-HOST-SUFFIX,bnbstatic.com,Binance
 HOST-SUFFIX,bnbzh.ac,Binance
-HOST-SUFFIX,bntrace.com,Binance
-HOST-SUFFIX,saasexch.cc,Binance
-HOST-SUFFIX,saasexch.com,Binance
+HOST-KEYWORD,appsflyersdk,Binance
+HOST-KEYWORD,saasexch,Binance
+HOST-KEYWORD,bntrace,Binance
+HOST-KEYWORD,yshyqxx,Binance
+HOST-KEYWORD,bnbstatic,Binance
+HOST-KEYWORD,bnappweb,Binance
