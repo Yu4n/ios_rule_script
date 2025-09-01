@@ -6,7 +6,7 @@
 # TOTAL: 12
 HOST-SUFFIX,appsflayer.com,Binance
 HOST-SUFFIX,binance.cloud,Binance
-HOST-SUFFIX,binance.com,Binance
+HOST-KEYWORD,binance,Binance
 HOST-SUFFIX,binance.me,Binance
 HOST-SUFFIX,binance.info,Binance
 HOST-SUFFIX,binancecnt.com,Binance
