@@ -1,0 +1,21 @@
+# NAME: Binance
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2025-06-06 09:18:53
+# HOST-SUFFIX: 12
+# TOTAL: 12
+HOST-SUFFIX,appsflayer.com,Binance
+HOST-KEYWORD,binance,Binance
+HOST-SUFFIX,bnappzh.co,Binance
+HOST-SUFFIX,bnbzh.ac,Binance
+HOST-KEYWORD,appsflyersdk,Binance
+HOST-KEYWORD,saasexch,Binance
+HOST-KEYWORD,bntrace,Binance
+HOST-KEYWORD,yshyqxx,Binance
+HOST-KEYWORD,bnbstatic,Binance
+HOST-KEYWORD,bnappweb,Binance
+HOST-KEYWORD,bybit,Binance
+HOST-SUFFIX,bybdc6.com,Binance
+HOST-SUFFIX,byabcde.com,Binance
+HOST-SUFFIX,byapps.net,Binance
+HOST-SUFFIX,byd3c3.com,Binance
